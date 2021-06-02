@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @harshitsnghl
+- 👀 I’m interested in programming and softtware development
+- 🌱 I’m currently studying B.TECH CSE
+- 💞️ I’m a full stack developer
+- 📫 How to reach me: harshitsnghl@gmail.com 
