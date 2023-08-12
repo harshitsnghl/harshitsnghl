@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harshitsnghl
-- 👀 I’m interested in **reading** and **singing**
-- 🌱 I’m an Engineer (**B.Tech CSE**)
-- 💞️ I’m a **Software Developer**
+- 👀 I’m interested in **reading** and **music**
+- 🌱 I’m working at Automatic Data Processing
+- 💞️ I’m a **Software Engineer**
 - 📫 How to reach me: **harshitsnghl@gmail.com** 
