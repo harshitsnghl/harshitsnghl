@@ -41,5 +41,7 @@ Reading and music — always taking recommendations for both.
 [![Email](https://img.shields.io/badge/Email-harshitsnghl@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:harshitsnghl@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
 
-![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitsnghl&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsnghl&layout=compact&hide_border=true)
+---
+
+> [!TIP]
+> Best way to get my attention: a good book recommendation or an album I haven't heard.
